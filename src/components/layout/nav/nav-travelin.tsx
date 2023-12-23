@@ -7,7 +7,7 @@ function NavTravelin() {
   return (
     <nav className="tw-flex tw-w-full tw-justify-between">
       <Logo />
-      <search className="tw-flex tw-items-center tw-gap-2">
+      <search className="tw-hidden tw-items-center  tw-gap-2 sm:tw-flex">
         <Search className="tw-text-orange-100" />
         <Input
           placeholder="Search your destination"
