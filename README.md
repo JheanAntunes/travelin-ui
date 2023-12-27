@@ -1,7 +1,7 @@
 # Introdução :grinning:
 interface: https://dribbble.com/shots/3714143-Travelin-UI :smiley:
 
-Projeto para praticar com [shadcn-ui,](https://ui.shadcn.com/docs/components/carousel) component carousel que utiliza a lib [embla-carousel ](https://www.embla-carousel.com) que pretiquei recentemente :exploding_head:
+Projeto para praticar com [shadcn-ui,](https://ui.shadcn.com/docs/components/carousel) component carousel que utiliza a lib [embla-carousel ](https://www.embla-carousel.com) que pratiquei recentemente :exploding_head:
 
 ## Praticas :nerd_face:
 - TailwindCss  :sunglasses:
