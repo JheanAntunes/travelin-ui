@@ -1,3 +1,19 @@
+# Introdução :grinning:
+interface: https://dribbble.com/shots/3714143-Travelin-UI :smiley:
+
+Projeto para praticar com [shadcn-ui,](https://ui.shadcn.com/docs/components/carousel) component carousel que utiliza a lib [embla-carousel ](https://www.embla-carousel.com) que pretiquei recentemente :exploding_head:
+
+## Praticas :nerd_face:
+- TailwindCss  :sunglasses:
+  - group
+  - prefix (tw-) :sparkles:
+  - cn (tailwind merge with clsx) 
+  - config tailwind merge para prefix (tw-) :sparkles:
+- Shadcn-ui  :sunglasses:
+  - New component Carousel :sparkles:
+- embla-carousel  :sunglasses:
+  - adicionar pagination no component carousel do shadcn-ui :flushed:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
