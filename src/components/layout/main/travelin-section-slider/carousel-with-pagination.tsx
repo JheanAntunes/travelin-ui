@@ -31,7 +31,12 @@ function CarouselWithPagination() {
             className="sm:tw-basis-1/2 sm:tw-pl-8 lg:tw-basis-1/3"
           >
             <div className="tw-relative tw-h-48 tw-overflow-hidden tw-rounded">
-              <Image src={Img} alt="description" className="tw-object-cover" />
+              <Image
+                src={Img}
+                alt="description"
+                className="tw-object-cover"
+                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+              />
             </div>
           </CarouselItem>
         ))}
